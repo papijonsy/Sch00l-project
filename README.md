@@ -1,1 +1,1 @@
-# Sch00l-project
+# School-project
